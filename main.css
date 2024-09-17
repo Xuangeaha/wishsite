@@ -1,0 +1,117 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+#itbo{
+  background-color:#000000;
+}
+#iz4t75{
+  height:90%;
+  position:absolute;
+  top:10%;
+}
+header{
+  background-color:rgb(255, 255, 255);
+}
+header .navbar-nav a.nav-link{
+  color:rgb(119, 119, 119);
+}
+header .navbar-nav a.nav-link:hover{
+  color:rgb(82, 139, 255);
+}
+header .navbar-nav .active a.nav-link{
+  color:rgb(68, 68, 68);
+}
+header .navbar-toggler-icon{
+  background-image:url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+header.bg-dark .navbar-nav a.nav-link{
+  color:rgb(220, 220, 220);
+}
+header.bg-dark .navbar-nav a.nav-link:hover{
+  color:rgb(82, 139, 255);
+}
+header.bg-dark .navbar-nav .active a.nav-link{
+  color:rgb(255, 255, 255);
+}
+header.bg-dark .navbar-toggler-icon{
+  background-image:url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#fff' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+header + header{
+  border-top-width:1px;
+  border-top-style:solid;
+  border-top-color:rgb(238, 238, 238);
+}
+.htmlpage-row{
+  display:table;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  width:100%;
+}
+.htmlpage-cell{
+  width:8%;
+  display:table-cell;
+  height:75px;
+}
+.navbar.navbar-expand-md.no-gutters{
+  position:absolute;
+  height:8%;
+}
+.c9769{
+  padding:10px;
+  position:absolute;
+  width:50%;
+  color:#ffffff;
+  font-size:75px;
+  font-weight:700;
+  left:7%;
+  top:30%;
+  line-height:100%;
+}
+.c10221{
+  padding:10px;
+  top:42%;
+  position:absolute;
+  left:7%;
+  width:50%;
+  color:#ffffff;
+  font-size:30px;
+  line-height:150%;
+}
+.c10979{
+  top:60%;
+  position:absolute;
+  left:8%;
+  width:13%;
+  height:7%;
+  background-color:#2b7eb3;
+  color:#ffffff;
+  border-radius:20px;
+  border:0px solid #000000;
+  font-size:20px;
+}
+.c11684{
+  padding:10px;
+  top:59.5%;
+  left:22%;
+  position:absolute;
+  font-size:22px;
+  color:rgba(255,255,255,0.59);
+}
+.c12226{
+  color:black;
+  position:absolute;
+  width:35%;
+  bottom:23%;
+  left:57%;
+}
+@media (max-width: 768px){
+  .htmlpage-cell{
+    width:100%;
+    display:block;
+  }
+}
