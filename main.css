@@ -66,7 +66,7 @@ header + header{
   position:absolute;
   width:50%;
   color:#ffffff;
-  font-size:75px;
+  font-size:500%;
   font-weight:700;
   left:7%;
   top:30%;
@@ -79,7 +79,7 @@ header + header{
   left:7%;
   width:50%;
   color:#ffffff;
-  font-size:30px;
+  font-size:200%;
   line-height:150%;
 }
 .c10979{
@@ -92,7 +92,7 @@ header + header{
   color:#ffffff;
   border-radius:20px;
   border:0px solid #000000;
-  font-size:20px;
+  font-size:133%;
 }
 .c10980{
   top:67%;
@@ -104,14 +104,14 @@ header + header{
   color:#ffffff;
   border-radius:20px;
   border:0px solid #000000;
-  font-size:20px;
+  font-size:133%;
 }
 .c11684{
   padding:10px;
   top:60%;
   left:7%;
   position:absolute;
-  font-size:22px;
+  font-size:146%;
   color:rgba(255,255,255,0.59);
 }
 .c12226{
