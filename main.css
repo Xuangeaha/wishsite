@@ -188,21 +188,21 @@ footer {
 @media (max-width: 768px) {
     .software-title {
         max-width: 100%;
-        font-size: 2.4rem;
+        font-size: 2.3rem;
     }
 
     .subtitle {
         max-width: 100%;
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
     .updatetitle {
         max-width: 100%;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
 
     .small-title {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
     .buttons {
@@ -233,6 +233,6 @@ footer {
     }
 
     footer {
-        font-size: 0.95rem;
+        font-size: 0.93rem;
     }
 }
